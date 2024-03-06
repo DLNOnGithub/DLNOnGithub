@@ -6,7 +6,7 @@ Welcome to my profile! I'm a student
 - Most of my projects are available on Github.
 
 ## List of Recent Projects.
-- [Fortnite Settings Changer]([docs/CONTRIBUTING.md](https://github.com/DLNOnGithub/fortnite-settings-updater))
+- [Fortnite Settings Changer](https://github.com/DLNOnGithub/fortnite-settings-updater)
 
 ## 🚀 Some Tools I Use.
 [![My Skills](https://skillicons.dev/icons?i=ableton,apple,bash,discord,github,gmail,idea,java,kali,linux,notion,pycharm,py,ubuntu,vscode,windows)](https://skillicons.dev)
