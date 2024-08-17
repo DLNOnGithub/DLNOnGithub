@@ -7,7 +7,7 @@ Welcome to my profile! I'm a student
 
 ## List of Recent Projects.
 - [Fortnite Settings Changer](https://github.com/DLNOnGithub/fortnite-settings-updater)
-- - [Credit Card Validator](https://github.com/DLNOnGithub/Credit-Card-Validator)
+- [Credit Card Validator](https://github.com/DLNOnGithub/Credit-Card-Validator)
 
 ## 🚀 Some Tools I Use.
 [![My Skills](https://skillicons.dev/icons?i=ableton,apple,bash,discord,github,gmail,idea,java,kali,linux,notion,pycharm,py,ubuntu,vscode,windows)](https://skillicons.dev)
